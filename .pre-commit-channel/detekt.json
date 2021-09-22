@@ -1,9 +1,10 @@
 {
   "mainClass" : "io.gitlab.arturbosch.detekt.cli.Main",
+  "prebuilt": "https://github.com/detekt/detekt/releases/download/v1.18.1/detekt-formatting-1.18.1.jar",
   "repositories": [
     "central"
   ],
   "dependencies": [
-    "io.gitlab.arturbosch.detekt:detekt-cli:1.18.0"
+    "io.gitlab.arturbosch.detekt:detekt-cli:1.18.1"
   ]
 }
